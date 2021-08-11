@@ -4,11 +4,12 @@
     margin-left:  60px ;
     margin-right: 60px ;
     margin-block-end: 10px;
-    border-radius: 15px;
-    box-shadow: -2px 6px 6px 6px rgb(227, 236, 233);
+    border-radius: 10px;
+    box-shadow: -1px 1px 1px 1px rgb(227, 236, 233);
     text-align: left;
     text-overflow: clip;
     display:flex;
+    opacity: 0.95;
     
     
 }

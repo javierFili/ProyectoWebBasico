@@ -1,33 +1,39 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
 #section-style{
     background-color: #ffffff;
     border: 1px solid #d0d0d0; 
     margin-left:  60px ;
     margin-right: 60px ;
     margin-block-end: 10px;
-    border-radius: 10px;
-    box-shadow: -1px 1px 1px 1px rgb(227, 236, 233);
-    text-align: left;
-    text-overflow: clip;
+    border-radius:20px;
+    box-shadow: -2  px 2px 2px 2px rgb(227, 236, 233);
     display:flex;
-    opacity: 0.95;
-    
-    
+    opacity: 0.90;
+    font-family: 'Open Sans', serif;
+    overflow: auto;
 }
+
 h3{
-    margin-left: 60px;
+    margin-left: 110px;
     margin-right: 20px;
     margin-top: 80px;
     margin-bottom: 20px;
 }
 
 p{
-    margin-left: 60px;
-    margin-right: 60px;
+    margin-left: 110px;
+    margin-right: 170px;
+    font-size: 17px;
+    grid-column: 2;
+    line-height:160%;
 }
 img{
-    margin-top: 40px;
-    margin-bottom: 40px;
+    margin-top: 60px;
+    margin-bottom: 60px;
     margin-left: 20px;
     margin-right: 20px ;
 
 }
+

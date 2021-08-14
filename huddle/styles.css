@@ -32,7 +32,7 @@ header button{
 	border:none;
 	background:white;
 	padding:10px 50px;
-	border-radius: 80px;
+	border-radius: 30%;
 	box-shadow:5px 5px 10px grey; 
 	font-family: 'Open Sans';
 	font-weight: bold;
@@ -68,7 +68,7 @@ button:hover{
 	background-color:  hsl(322, 100%, 66%);
 	border: none;
 	padding: 10px 50px;
-	border-radius: 80px;
+	border-radius: 30%;
 	color:white;
 	margin-top: 2em;
 }

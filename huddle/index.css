@@ -102,7 +102,7 @@ button:hover {
   background-color: hsl(322, 100%, 66%);
   border: none;
   padding: 10px 50px;
-  border-radius: 80%;
+  border-radius: 30%;
   color: white;
   margin-top: 2em;
 }
